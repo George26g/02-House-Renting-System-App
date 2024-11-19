@@ -20,7 +20,7 @@ namespace HouseRentingSystem.Tests.UnitTests
             var resultAgentId = this.agentService.GetAgentId(this.Agent.UserId);
 
             // Assert a correct id is returned
-            Assert.AreEqual(this.Agent.Id, resultAgentId,);
+            Assert.AreEqual(this.Agent.Id, resultAgentId);
         }
 
        [Test]
