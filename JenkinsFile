@@ -9,15 +9,13 @@ pipeline{
             }
         }
 
-        stage("Install dependences"){
+        stage("Restore dependences"){
             steps{
                 script{
                   
-                    bat 'npm install'
+                    bat 'dotnet restore'
                 }
-
             }
-
         }
         stage("Build application")
         {
