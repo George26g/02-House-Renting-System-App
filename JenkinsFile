@@ -9,7 +9,16 @@ pipeline{
             }
         }
 
-      
+        stage("Install dependences"){
+            steps{
+                script{
+                  
+                    bat 'npm install'
+                }
+
+            }
+
+        }
         stage("Build application")
         {
             steps{
