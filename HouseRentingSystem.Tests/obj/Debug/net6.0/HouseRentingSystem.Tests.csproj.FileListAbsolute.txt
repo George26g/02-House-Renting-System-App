@@ -356,3 +356,4 @@ C:\Users\gogo1\Desktop\Exercise Integration\04.Exercise-Continuous-Integration-R
 C:\Users\gogo1\Desktop\Exercise Integration\04.Exercise-Continuous-Integration-Resources\02-House-Renting-System-App\HouseRentingSystem.Tests\obj\Debug\net6.0\HouseRentingSystem.Tests.pdb
 C:\Users\gogo1\Desktop\Exercise Integration\04.Exercise-Continuous-Integration-Resources\02-House-Renting-System-App\HouseRentingSystem.Tests\obj\Debug\net6.0\HouseRentingSystem.Tests.genruntimeconfig.cache
 C:\Users\gogo1\Desktop\Exercise Integration\04.Exercise-Continuous-Integration-Resources\02-House-Renting-System-App\HouseRentingSystem.Tests\obj\Debug\net6.0\ref\HouseRentingSystem.Tests.dll
+C:\Users\gogo1\Desktop\Exercise Integration\04.Exercise-Continuous-Integration-Resources\02-House-Renting-System-App\HouseRentingSystem.Tests\obj\Debug\net6.0\HouseRentingSystem.Tests.sourcelink.json

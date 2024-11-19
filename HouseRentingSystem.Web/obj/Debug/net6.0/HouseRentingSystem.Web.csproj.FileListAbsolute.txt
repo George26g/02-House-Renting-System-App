@@ -283,3 +283,4 @@ C:\Users\gogo1\Desktop\Exercise Integration\04.Exercise-Continuous-Integration-R
 C:\Users\gogo1\Desktop\Exercise Integration\04.Exercise-Continuous-Integration-Resources\02-House-Renting-System-App\HouseRentingSystem.Web\obj\Debug\net6.0\HouseRentingSystem.Web.pdb
 C:\Users\gogo1\Desktop\Exercise Integration\04.Exercise-Continuous-Integration-Resources\02-House-Renting-System-App\HouseRentingSystem.Web\obj\Debug\net6.0\HouseRentingSystem.Web.genruntimeconfig.cache
 C:\Users\gogo1\Desktop\Exercise Integration\04.Exercise-Continuous-Integration-Resources\02-House-Renting-System-App\HouseRentingSystem.Web\obj\Debug\net6.0\ref\HouseRentingSystem.Web.dll
+C:\Users\gogo1\Desktop\Exercise Integration\04.Exercise-Continuous-Integration-Resources\02-House-Renting-System-App\HouseRentingSystem.Web\obj\Debug\net6.0\HouseRentingSystem.Web.sourcelink.json
